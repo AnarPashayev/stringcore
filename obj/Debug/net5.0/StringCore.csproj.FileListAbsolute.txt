@@ -1,0 +1,16 @@
+C:\Users\Anar\source\repos\StringCore\StringCore\bin\Debug\net5.0\StringCore.exe
+C:\Users\Anar\source\repos\StringCore\StringCore\bin\Debug\net5.0\StringCore.deps.json
+C:\Users\Anar\source\repos\StringCore\StringCore\bin\Debug\net5.0\StringCore.runtimeconfig.json
+C:\Users\Anar\source\repos\StringCore\StringCore\bin\Debug\net5.0\StringCore.runtimeconfig.dev.json
+C:\Users\Anar\source\repos\StringCore\StringCore\bin\Debug\net5.0\StringCore.dll
+C:\Users\Anar\source\repos\StringCore\StringCore\bin\Debug\net5.0\ref\StringCore.dll
+C:\Users\Anar\source\repos\StringCore\StringCore\bin\Debug\net5.0\StringCore.pdb
+C:\Users\Anar\source\repos\StringCore\StringCore\obj\Debug\net5.0\StringCore.csprojAssemblyReference.cache
+C:\Users\Anar\source\repos\StringCore\StringCore\obj\Debug\net5.0\StringCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\source\repos\StringCore\StringCore\obj\Debug\net5.0\StringCore.AssemblyInfoInputs.cache
+C:\Users\Anar\source\repos\StringCore\StringCore\obj\Debug\net5.0\StringCore.AssemblyInfo.cs
+C:\Users\Anar\source\repos\StringCore\StringCore\obj\Debug\net5.0\StringCore.csproj.CoreCompileInputs.cache
+C:\Users\Anar\source\repos\StringCore\StringCore\obj\Debug\net5.0\StringCore.dll
+C:\Users\Anar\source\repos\StringCore\StringCore\obj\Debug\net5.0\ref\StringCore.dll
+C:\Users\Anar\source\repos\StringCore\StringCore\obj\Debug\net5.0\StringCore.pdb
+C:\Users\Anar\source\repos\StringCore\StringCore\obj\Debug\net5.0\StringCore.genruntimeconfig.cache
